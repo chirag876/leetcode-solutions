@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/chirag876/leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/chirag876/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/chirag876/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0605-can-place-flowers](https://github.com/chirag876/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/chirag876/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Greedy
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/chirag876/leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/chirag876/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/chirag876/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/chirag876/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/chirag876/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/chirag876/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Recursion
 |  |
 | ------- |
