@@ -15,7 +15,7 @@ class Solution(object):
             else:
                 freq[nums[i]] = 1
         for keys in freq.keys():
-            if freq[keys] >=2:
+            if freq[keys] > 1:
                 return True
         return False
     
