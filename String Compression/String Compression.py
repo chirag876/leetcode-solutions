@@ -17,19 +17,16 @@ def strscompression(char):
             count += 1
 
         else:
-            # If a new character is found, add the previous character
-            # and its count to the output string.
+            # If a new character is found, add the previous character and its count to the output string.
             out += current_char + str(count)
 
             # Update the current character to the new one.
             current_char = char[i]
 
-            # Reset the count because this is the first occurrence
-            # of the new character.
+            # Reset the count because this is the first occurrence of the new character.
             count = 1
 
-    # Add the last character and its count because the loop ends
-    # without adding the final group.
+    # Add the last character and its count because the loop ends without adding the final group.
     out += current_char + str(count)
 
     # Return the compressed string.
