@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chirag876/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chirag876/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/chirag876/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/chirag876/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0605-can-place-flowers](https://github.com/chirag876/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0905-sort-array-by-parity](https://github.com/chirag876/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/chirag876/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/chirag876/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/chirag876/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/chirag876/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/chirag876/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Queue
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chirag876/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chirag876/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/chirag876/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/chirag876/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/chirag876/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/chirag876/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Recursion
